@@ -1,71 +1,87 @@
-23.227.60.200:443#Asia Pacific-Hong Kong-23.65MB/s
-141.101.90.96:443#Europe-Hamburg-13.74MB/s
-141.101.90.106:443#Europe-Warsaw-16.41MB/s
-141.101.90.98:443#Europe-Copenhagen-13.79MB/s
-104.19.108.21:443#North America-Los Angeles-0.53MB/s
-104.18.222.212:443#North America-Los Angeles-0.14MB/s
-104.16.4.41:443#North America-Los Angeles-0.14MB/s
-104.16.85.175:443#North America-Los Angeles-0.23MB/s
-104.16.164.141:443#North America-Los Angeles-0.24MB/s
-104.20.59.46:443#Europe-Frankfurt-1.21MB/s
-104.18.49.41:443#North America-Los Angeles-0.27MB/s
-104.16.236.213:443#North America-Los Angeles-0.15MB/s
-104.18.227.55:443#North America-Los Angeles-0.22MB/s
-104.19.203.182:443#North America-Los Angeles-0.13MB/s
-104.19.181.161:443#North America-Los Angeles-0.17MB/s
-104.19.3.46:443#North America-Los Angeles-0.19MB/s
-104.19.166.44:443#North America-Los Angeles-0.15MB/s
-104.18.186.52:443#North America-Los Angeles-0.13MB/s
-104.16.37.169:443#North America-Los Angeles-0.16MB/s
-104.16.165.161:443#North America-Los Angeles-0.17MB/s
-104.19.241.125:443#North America-Los Angeles-0.15MB/s
-104.20.2.163:443#North America-Los Angeles-0.22MB/s
-104.19.210.71:443#North America-Los Angeles-0.14MB/s
-172.64.76.3:443#North America-Los Angeles-0.20MB/s
-104.17.71.218:443#North America-Los Angeles-0.18MB/s
-104.16.97.51:443#North America-Los Angeles-0.12MB/s
-104.19.84.66:443#North America-Los Angeles-0.18MB/s
-104.19.245.215:443#North America-Los Angeles-0.30MB/s
-104.17.94.117:443#North America-Los Angeles-0.21MB/s
-104.20.5.134:443#North America-Los Angeles-0.24MB/s
-104.16.90.205:443#North America-Los Angeles-0.24MB/s
-104.16.10.234:443#North America-Los Angeles-0.15MB/s
-104.18.254.176:443#North America-Los Angeles-0.20MB/s
-104.17.207.0:443#North America-Los Angeles-0.11MB/s
-104.16.125.249:443#North America-Los Angeles-0.16MB/s
-172.64.69.209:443#North America-Los Angeles-0.10MB/s
-104.19.214.99:443#North America-Los Angeles-0.10MB/s
-8.34.70.99:443#North America-Los Angeles-0.17MB/s
-104.19.236.146:443#North America-Los Angeles-0.21MB/s
-104.16.207.70:443#North America-Los Angeles-0.18MB/s
-104.18.190.101:443#North America-Los Angeles-0.19MB/s
-104.16.17.6:443#North America-Los Angeles-0.20MB/s
-104.18.163.5:443#North America-Los Angeles-0.11MB/s
-104.16.176.72:443#North America-Los Angeles-0.34MB/s
-172.64.235.118:443#North America-Los Angeles-0.62MB/s
-172.67.226.172:443#North America-Los Angeles-0.17MB/s
-104.18.155.179:443#North America-Los Angeles-0.20MB/s
-104.17.9.3:443#North America-Los Angeles-0.22MB/s
-8.39.214.23:443#North America-Los Angeles-0.24MB/s
-104.19.211.223:443#North America-Los Angeles-0.12MB/s
-104.21.219.182:443#North America-Los Angeles-0.17MB/s
-104.16.9.187:443#North America-Los Angeles-0.23MB/s
-104.16.162.131:443#North America-Los Angeles-0.15MB/s
-162.159.246.66:443#North America-Los Angeles-0.28MB/s
-104.19.13.221:443#North America-Los Angeles-0.46MB/s
-104.16.18.20:443#North America-Los Angeles-0.19MB/s
-104.19.77.177:443#North America-Los Angeles-0.27MB/s
-104.18.71.100:443#North America-Los Angeles-0.30MB/s
-104.19.104.214:443#North America-Los Angeles-0.22MB/s
-104.16.43.69:443#North America-Los Angeles-0.13MB/s
-104.19.177.49:443#North America-Los Angeles-0.19MB/s
-104.19.214.77:443#North America-Los Angeles-0.39MB/s
-104.20.55.247:443#Europe-Frankfurt-0.38MB/s
-104.16.206.186:443#North America-Los Angeles-0.14MB/s
-104.20.54.186:443#Europe-Frankfurt-0.20MB/s
-104.20.58.207:443#Europe-Frankfurt-0.71MB/s
+23.227.60.200:443#Asia Pacific-Hong Kong-2.19MB/s
+141.101.90.98:443#Europe-Hamburg-1.31MB/s
+141.101.90.96:443#Europe-Hamburg-1.58MB/s
+141.101.90.106:443#Europe-Paris-0.75MB/s
+104.25.254.194:2053#Asia Pacific-Hong Kong-0.07MB/s
+104.20.60.157:443#Europe-Frankfurt-0.74MB/s
+104.16.43.69:443#North America-Los Angeles-0.39MB/s
+104.19.211.223:443#North America-Los Angeles-0.18MB/s
+104.19.166.44:443#North America-Los Angeles-0.39MB/s
+104.18.163.5:443#North America-Los Angeles-0.20MB/s
+172.64.81.67:443#North America-Los Angeles-0.27MB/s
+104.27.92.233:443#North America-Los Angeles-0.20MB/s
+104.27.107.236:443#North America-Los Angeles-0.24MB/s
+104.19.84.66:443#North America-Los Angeles-0.09MB/s
+104.16.18.20:443#North America-Los Angeles-0.33MB/s
+104.19.214.99:443#North America-Los Angeles-0.35MB/s
+104.16.46.174:443#North America-Los Angeles-0.22MB/s
+8.39.214.23:443#North America-Los Angeles-0.22MB/s
+104.16.165.161:443#North America-Los Angeles-0.24MB/s
+104.19.3.46:443#North America-Los Angeles-0.17MB/s
+104.19.177.49:443#North America-Los Angeles-0.38MB/s
+104.20.5.134:443#North America-Los Angeles-0.36MB/s
+172.64.69.209:443#North America-Los Angeles-0.36MB/s
+172.67.226.172:443#North America-Los Angeles-0.37MB/s
+104.17.9.3:443#North America-Los Angeles-0.28MB/s
+104.21.219.182:443#North America-Los Angeles-0.26MB/s
+104.16.9.187:443#North America-Los Angeles-0.36MB/s
+104.20.59.46:443#Europe-Frankfurt-0.66MB/s
+162.159.246.66:443#North America-Los Angeles-0.26MB/s
+104.18.190.101:443#North America-Los Angeles-0.28MB/s
+104.18.164.69:2053#North America-Los Angeles-0.86MB/s
+104.16.90.205:443#North America-Los Angeles-0.76MB/s
+8.34.70.99:443#North America-Los Angeles-0.26MB/s
+172.67.242.13:2053#North America-Los Angeles-0.28MB/s
+104.16.97.51:443#North America-Los Angeles-0.24MB/s
+104.19.245.215:443#North America-Los Angeles-0.31MB/s
+104.16.176.72:443#North America-Los Angeles-0.21MB/s
+104.19.203.182:443#North America-Los Angeles-0.59MB/s
+104.19.27.37:2053#North America-Los Angeles-0.21MB/s
+104.16.207.70:443#North America-Los Angeles-0.27MB/s
+104.16.206.186:443#North America-Los Angeles-0.40MB/s
+104.17.71.218:443#North America-Los Angeles-0.17MB/s
+104.18.254.176:443#North America-Los Angeles-0.28MB/s
+162.159.160.249:443#Europe-Frankfurt-0.23MB/s
+104.19.210.71:443#North America-Los Angeles-0.20MB/s
+162.159.228.24:2053#North America-Los Angeles-0.39MB/s
+104.20.56.21:2053#Europe-Frankfurt-0.91MB/s
 104.20.56.9:443#Europe-Frankfurt-0.24MB/s
-162.159.137.130:443#Europe-London-0.41MB/s
-104.20.60.69:443#Europe-Frankfurt-0.27MB/s
-104.20.60.157:443#Europe-Frankfurt-0.52MB/s
-172.67.202.101:2053#Europe-London-0.34MB/s
+104.21.0.82:2053#North America-Los Angeles-0.13MB/s
+104.19.233.146:2053#North America-Los Angeles-0.19MB/s
+104.17.207.0:443#North America-Los Angeles-0.19MB/s
+104.16.125.249:443#North America-Los Angeles-0.16MB/s
+104.17.94.117:443#North America-Los Angeles-0.15MB/s
+104.19.169.47:2053#North America-Los Angeles-0.13MB/s
+104.16.4.41:443#North America-Los Angeles-0.12MB/s
+104.18.71.100:443#North America-Los Angeles-0.22MB/s
+104.24.26.184:2053#North America-Los Angeles-0.16MB/s
+104.25.158.116:2053#North America-Los Angeles-0.22MB/s
+104.18.49.41:443#North America-Los Angeles-0.25MB/s
+104.24.50.200:2053#North America-Los Angeles-0.16MB/s
+172.64.235.118:443#North America-Los Angeles-0.27MB/s
+104.18.222.212:443#North America-Los Angeles-0.22MB/s
+172.64.76.3:443#North America-Los Angeles-0.24MB/s
+104.19.77.177:443#North America-Los Angeles-0.22MB/s
+104.19.13.221:443#North America-Los Angeles-0.18MB/s
+104.20.60.247:2053#Europe-Frankfurt-0.42MB/s
+104.16.85.175:443#North America-Los Angeles-0.12MB/s
+104.20.58.207:443#Europe-Frankfurt-0.98MB/s
+104.20.55.247:443#Europe-Frankfurt-0.36MB/s
+104.20.60.69:443#Europe-Frankfurt-0.24MB/s
+104.20.56.249:443#Europe-Frankfurt-0.85MB/s
+104.20.54.179:2053#Europe-Frankfurt-0.25MB/s
+104.18.94.174:443#Europe-London-0.19MB/s
+172.67.195.236:2053#Europe-London-0.22MB/s
+104.20.48.120:443#Europe-Frankfurt-0.33MB/s
+162.159.148.159:443#Europe-London-0.55MB/s
+172.67.202.101:2053#Europe-London-0.20MB/s
+172.67.215.96:2053#Europe-London-0.25MB/s
+162.159.140.173:2053#Europe-London-0.30MB/s
+104.18.18.115:2053#Europe-London-0.12MB/s
+162.159.154.60:2053#Europe-London-0.34MB/s
+162.159.158.240:443#Europe-London-0.21MB/s
+104.18.88.101:2053#Europe-London-0.31MB/s
+104.18.127.221:443#Europe-London-0.13MB/s
+172.67.192.164:443#Europe-London-0.36MB/s
+104.18.20.180:2053#Europe-London-0.32MB/s
+172.67.142.176:2053#Europe-London-0.25MB/s
